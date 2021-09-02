@@ -1,8 +1,9 @@
-import JoinPage from './Joinpage';
+import Container from './container';
+import RouterContainer from './RouterContainer';
 function App() {
     return (
        <>
-       <JoinPage />
+          <RouterContainer />
        </>
     );
 }

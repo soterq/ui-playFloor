@@ -19,7 +19,7 @@ export const Title = styled.p`
   font-weight: 400;
 `;
 
- export const Container = styled.div`
+ export const ContainerDiv = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
